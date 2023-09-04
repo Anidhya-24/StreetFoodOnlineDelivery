@@ -1,0 +1,16 @@
+SMAP
+cpauth_jsp.java
+JSP
+*S JSP
+*F
++ 0 cpauth.jsp
+cpauth.jsp
++ 1 connectme.jsp
+connectme.jsp
+*L
+1:51
+1#1:52
+4,3:55
+2#0:58
+4,19:60
+*E

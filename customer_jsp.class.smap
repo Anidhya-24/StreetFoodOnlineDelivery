@@ -1,0 +1,26 @@
+SMAP
+customer_jsp.java
+JSP
+*S JSP
+*F
++ 0 customer.jsp
+customer.jsp
++ 1 title.jsp
+title.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,21:52
+28,27:76
+54,50:103
+1#1,2:153
+103#0,16:155
+119,7:172
+125:179
+126:180,6
+127:186
+128,5:188
+132,58:193
+1#2,10:251
+189#0,3:261
+*E

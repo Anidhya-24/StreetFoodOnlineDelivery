@@ -1,0 +1,12 @@
+SMAP
+autorefresh_jsp.java
+JSP
+*S JSP
+*F
++ 0 autorefresh.jsp
+autorefresh.jsp
+*L
+1,9:46
+11,14:56
+24,4:70
+*E

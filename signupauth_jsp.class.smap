@@ -1,0 +1,19 @@
+SMAP
+signupauth_jsp.java
+JSP
+*S JSP
+*F
++ 0 signupauth.jsp
+signupauth.jsp
++ 1 connectme.jsp
+connectme.jsp
+*L
+1,9:51
+1#1:60
+4,4:63
+9#0,3:67
+12,21:71
+32,9:92
+43,9:104
+51,5:113
+*E

@@ -1,0 +1,16 @@
+SMAP
+forgotauth_jsp.java
+JSP
+*S JSP
+*F
++ 0 forgotauth.jsp
+forgotauth.jsp
++ 1 connectme.jsp
+connectme.jsp
+*L
+1:51
+1#1:52
+4,3:55
+2#0:58
+4,17:60
+*E

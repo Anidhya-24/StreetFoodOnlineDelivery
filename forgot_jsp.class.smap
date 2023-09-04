@@ -1,0 +1,22 @@
+SMAP
+forgot_jsp.java
+JSP
+*S JSP
+*F
++ 0 forgot.jsp
+forgot.jsp
++ 1 title.jsp
+title.jsp
++ 2 header.jsp
+header.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,35:51
+1#1,2:86
+35#0,3:88
+1#2,39:91
+37#0,37:130
+1#3,10:166
+73#0,3:176
+*E
